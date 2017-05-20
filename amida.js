@@ -1,7 +1,7 @@
 process.stdin.resume();
 process.stdin.setEncoding('utf8');
 /*
-一番左の縦線に繋がるあみだくじを選ぶ
+一番左に繋がるあみだくじを選ぶ
 100万単位のデータの処理には不向き
 
 入力例
